@@ -1,3 +1,6 @@
+# log4ti - Titanium logger
+##### A log4j/log4net logger class implementation for Appcelerator Titanium projects
+
 ## License
 
 The MIT License (MIT)
