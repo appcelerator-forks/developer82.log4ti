@@ -1,5 +1,7 @@
 # log4ti - Titanium logger
 ##### A log4j/log4net logger class implementation for Appcelerator Titanium projects
+This project is a logger class for Titanium projects in the style of log4x. It allows specifing logging levels and attaching them to different log appenders.
+
 
 ## License
 
