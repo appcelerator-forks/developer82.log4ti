@@ -5,7 +5,7 @@ This project is a logger class for Titanium projects in the style of log4x. It a
 
 ## How to use
 
-* You can find a working example in attached app.js file.
+You can find a working example in attached app.js file.
 
 First configure log4ti (you can do that only once when starting your app)
 ```
@@ -39,6 +39,12 @@ var logger = require('log4ti').createLogger(); // get the logger object
     logger.myCustomLevel('custom level logging example');
 ```
 
+## TODO
+
+* Add AlertAppender
+* Add header feature to file appender
+* Add option to configuration logger with json object
+* Add option to load configuration from configuration file (should be done after json configuration is implemented)
 
 ## License
 
