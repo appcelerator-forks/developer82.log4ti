@@ -42,6 +42,7 @@ var logger = require('log4ti').createLogger(); // get the logger object
 ## TODO
 
 * Add AlertAppender
+* Add REST Appender
 * Add header feature to file appender
 * Add option to configuration logger with json object
 * Add option to load configuration from configuration file (should be done after json configuration is implemented)
