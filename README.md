@@ -46,6 +46,10 @@ var logger = require('log4ti').createLogger(); // get the logger object
 * Add option to configuration logger with json object
 * Add option to load configuration from configuration file (should be done after json configuration is implemented)
 
+## Further Reading
+
+You can have more information about this project (and other stuff I do) on my blog at http://developer82.webe.co.il
+
 ## License
 
 The MIT License (MIT)
